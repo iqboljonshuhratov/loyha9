@@ -1,0 +1,22 @@
+@import "./qirq";
+@import "./oltmish";
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+main {
+    width: 100%;
+
+}
+
+button {
+    cursor: pointer;
+}
+
+li {
+    cursor: pointer;
+}

@@ -1,0 +1,399 @@
+
+.besh {
+    width: 100%;
+    height: 740px;
+    padding: 20px 80px 0px 80px;    
+
+    .bg {
+        width: 100%;
+        height: 100%;
+        background-image: url(../odam/Learn\ More.png);
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: flex-end;
+        padding: 80px 0px 200px 0px;
+
+        nav {
+            width: 200px;
+            height: 60px;
+            cursor: pointer;
+        }
+    }
+    
+}
+
+// besh tugadi
+
+
+.olti {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    
+    strong {
+        font-size: 48px;
+    }
+}
+
+// olti tugadi
+
+.yetti {
+    width: 100%;
+    height: 550px;
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);    display: flex;
+    padding: 80px;
+    gap: 40px;
+   
+
+    .d1 {
+        width: 24%;
+        height: 445px;
+        background-color: #FFFFFF;
+       
+        
+        .i1 {
+            padding: 0px 7px;
+            width: 100%;
+            height: 41px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            nav ul {
+                display: flex;
+                flex-direction: column;
+
+                li {
+                    display: flex;
+
+                    .gol {
+                        width: 20px;
+                    }
+                }
+            }
+
+            .img {
+                width: 20px;
+                height: 4px;
+                margin: 0px 0px 0px 90px;
+            }
+        }
+
+        .i2 {
+            width: 100%;
+            height: 290px;
+            background-image: url(../odam/Rectangle\ \(2\).png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: flex;
+            padding: 10px;
+            justify-content: flex-end;
+            img {
+                width: 26px;
+                height: 20px;
+            }
+        }
+
+        .i3 {
+            padding: 0px 7px;
+            width: 100%;
+            height: 30px;
+            display: flex;
+
+            nav { 
+                width: 100%;
+                height: 100%;
+                display: flex;
+                align-items: center;
+            ul {
+               align-items: center;
+                display: flex;
+                list-style: none;
+                gap: 70px;
+
+                li {
+                    display: flex;
+                    gap: 10px;
+                }
+            }
+        }
+        }
+
+        .i4 {
+            padding: 0px 7px;
+            width: 100%;
+            height: 83.9px;
+            
+            nav ul {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+
+                li {
+                    list-style: none;
+
+                    strong {
+                        font-size: 13px;
+                    }
+
+                    p {
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+    
+}
+
+// yetti tugadi
+
+.sakkiz {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+
+    button {
+        color: #FFFFFF;
+        width: 229px;
+        height: 60px;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        border-radius: 30px;
+
+        img {
+            width: 40px;
+        }
+    }
+}
+
+// sakkiz tugadi
+
+.toqqiz {
+    width: 100%;
+    height: 260px;
+    display: flex;
+    padding: 80px;
+    justify-content: space-between;
+    align-items: center;
+
+    strong {
+        font-size: 48px;
+    }
+}
+
+// toqqiz tugadi
+
+
+.on {
+    width: 100%;
+    height: 520px;
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 80px;
+    gap: 40px;
+    background-color:  #E5E5E5;
+
+    .ohwaw {
+        width: 22%;
+        height: 434px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 30px;
+        padding: 16px;
+
+        .d1 {
+            width: 100%;
+            height: 60%;
+            background-image: url(../qolibketkan/image\ 26.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: flex;
+            justify-content: flex-end;
+            padding: 20px;
+            
+            nav {
+                width: 48px;
+                height: 48px;
+                background-color: white;
+                border-radius: 100%;
+                text-align: center;
+                padding: 17px 0px;    
+            }
+        }
+
+        .d2 {
+            width: 100%;
+            height: 40%;
+
+            p {
+                font-size: 24px;
+                margin: 24px 24px 40px 24px;
+                
+            }
+            
+            img {
+                margin: 0px 0px 24px 24px;
+            }
+        }
+    }
+}
+
+// on tugadi
+
+
+.onbir {
+    width: 100%;
+    height: 770px;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    
+
+    .tepa {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 25px;
+        background-color: #E7F9FD;
+
+        border-radius: 20px 20px 0px 0px;
+
+        strong {
+            font-size: 48px;
+        }
+
+    }
+
+    .past {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 0px 0px 20px 20px;
+        background-color: #E7F9FD;
+
+
+        nav {
+            width: 480px;
+            height: 80px;
+            background-color: #FFFFFF;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0px 10px 0px 32px;
+            position: relative;
+            margin-top: 100px;
+            border-radius: 30px;
+            p {
+                font-size: 14px;
+            }
+
+            button {
+                font-size: 14px;
+                color: white;
+                width: 160px;
+                height: 60px;
+                background-color: black;
+                border-radius: 30px;
+            }
+        }
+    }
+}
+
+
+// onbir tgadi
+
+
+.onikki {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        padding: 80px;
+
+        strong {
+            font-size: 24px;
+        }
+
+        ul {
+            display: flex;
+            list-style: none;
+            gap: 60px;
+
+        }
+    }
+}
+
+// ohiri boshlandi
+
+
+.ohiri {
+    width: 100%;
+    height: 120px;
+    display: flex;
+
+    .chap {
+        width: 30%;
+        height: 100%;
+
+    }
+
+    .ong {
+        width: 70%;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 80px 0px 80px;
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 40px;
+        }
+
+        .bir {
+            width: 336px;
+            height: 23px;
+        }
+
+        .ikki {
+            width: 9px;
+            height: 19px;
+        }
+
+        .uch {
+            width: 22px;
+            height: 17px;
+        }
+
+        .insta {
+            width: 22px;
+            height: 22px;
+        }
+        
+    }
+}
